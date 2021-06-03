@@ -1,6 +1,6 @@
 # The Knapsack Game
 
-![](knapsack%game.png)
+![](knapsack%20game.png)
 
 Fill your knapsack!
 
